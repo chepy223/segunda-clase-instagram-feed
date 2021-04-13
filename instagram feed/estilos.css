@@ -1,0 +1,48 @@
+.fecha{
+    float: right;
+    color: grey;
+}
+.post-pa {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.post{  
+    width: 60%;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.parte-de-arriba{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    align-items: center;
+}
+.fondo{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+    background-color: rgb(190, 190, 190);
+    padding-top: 10px;
+}
+body{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+.desc{
+    padding: 5px;
+}
+.encabezado{
+    width: 100%;
+    background-color: tomato;
+}
